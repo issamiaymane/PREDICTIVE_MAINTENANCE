@@ -1,0 +1,62 @@
+2025-08-27 11:23:29,376 - INFO - Mode d'exécution unique - Système d'Alertes de Maintenance Prédictive
+2025-08-27 11:23:29,377 - INFO - Initialisation du Système d'Alertes de Maintenance Prédictive
+2025-08-27 11:23:29,377 - INFO - Configuration chargée depuis: config.json
+2025-08-27 11:23:29,378 - INFO - Chargement des données d'équipement pour l'analyse...
+2025-08-27 11:23:35,330 - INFO - Validation des données terminée: 18572 enregistrements traités
+2025-08-27 11:23:35,331 - INFO - Colonnes disponibles: ['CodeIntervention', 'TypeIntervention', 'DescriptionInterv', 'code_equipement', 'equipement', 'statut', 'DateDebut', 'is_panne', 'nom_equipement', 'type_equipement', 'localisation', 'total_pannes', 'total_interventions', 'interventions_7d', 'interventions_30d', 'interventions_90d', 'days_since_last', 'intervention_rate', 'type_encoded']
+2025-08-27 11:23:35,332 - INFO - Période des données: 2012-01-10 10:49:00 à 2014-12-03 22:58:00
+2025-08-27 11:23:35,333 - INFO - Statistiques pannes: 15014 pannes sur 18572 interventions (80.8%)
+2025-08-27 11:23:35,335 - INFO - Données d'équipement traitées: 18572 enregistrements prêts pour l'analyse
+2025-08-27 11:23:35,335 - INFO - Initialisation du modèle de prédiction: /home/aymane-issami/Desktop/PREDICTIVE_MAINTENANCE/code/notebooks/outputs/model_20250802_095836.pkl
+2025-08-27 11:23:36,101 - INFO - Modèle chargé avec succès: Gradient Boosting
+2025-08-27 11:23:36,101 - INFO - Création des features temporelles...
+2025-08-27 11:24:42,857 - INFO - Dataset enrichi créé: 13,435 observations temporelles
+2025-08-27 11:24:42,859 - INFO - Équipements valides (≥2 pannes): 485 sur 1652
+2025-08-27 11:24:42,865 - WARNING - Équipements exclus: 1167 (70.6%) - critère: <2 pannes
+2025-08-27 11:24:42,873 - INFO - Exécution des prédictions pour 1652 équipements uniques
+2025-08-27 11:24:42,874 - INFO - Analyse de 485 équipements valides
+2025-08-27 11:24:42,876 - INFO - Début des prédictions par lot pour 485 équipements valides
+2025-08-27 11:24:43,434 - INFO - Progrès: 50/485 équipements valides (10.3%)
+2025-08-27 11:24:44,036 - INFO - Progrès: 100/485 équipements valides (20.6%)
+2025-08-27 11:24:44,550 - INFO - Progrès: 150/485 équipements valides (30.9%)
+2025-08-27 11:24:45,040 - INFO - Progrès: 200/485 équipements valides (41.2%)
+2025-08-27 11:24:45,526 - INFO - Progrès: 250/485 équipements valides (51.5%)
+2025-08-27 11:24:46,164 - INFO - Progrès: 300/485 équipements valides (61.9%)
+2025-08-27 11:24:46,715 - INFO - Progrès: 350/485 équipements valides (72.2%)
+2025-08-27 11:24:47,398 - INFO - Progrès: 400/485 équipements valides (82.5%)
+2025-08-27 11:24:47,981 - INFO - Progrès: 450/485 équipements valides (92.8%)
+2025-08-27 11:24:48,638 - INFO - Progrès: 485/485 équipements valides (100.0%)
+2025-08-27 11:24:48,639 - INFO - Prédictions par lot terminées: 485 réussies, 0 erreurs
+2025-08-27 11:24:48,639 - INFO - Analyse de prédiction terminée: 485 équipements traités
+2025-08-27 11:24:48,641 - INFO - STATISTIQUES DE VALIDITÉ:
+2025-08-27 11:24:48,641 - INFO -   - Total équipements: 1652
+2025-08-27 11:24:48,641 - INFO -   - Équipements valides (≥2 pannes): 485
+2025-08-27 11:24:48,641 - INFO -   - Équipements exclus (<2 pannes): 1167
+2025-08-27 11:24:48,641 - INFO -   - Taux de validité: 29.4%
+2025-08-27 11:24:48,642 - INFO - Envoi d'alertes de priorité critique pour 0 équipements
+2025-08-27 11:24:50,462 - INFO - Email envoyé avec succès à: issami.aymane@gmail.com, maintenance.critical@snrt.ma
+2025-08-27 11:24:50,462 - INFO - Alerte de priorité critique envoyée avec succès
+2025-08-27 11:24:50,462 - INFO - Envoi d'alertes de priorité eleve pour 0 équipements
+2025-08-27 11:24:51,761 - INFO - Email envoyé avec succès à: issami.aymane@gmail.com, maintenance.high@snrt.ma
+2025-08-27 11:24:51,761 - INFO - Alerte de priorité eleve envoyée avec succès
+2025-08-27 11:24:51,761 - INFO - Envoi d'alertes de priorité modere pour 203 équipements
+2025-08-27 11:24:53,541 - INFO - Email envoyé avec succès à: issami.aymane@gmail.com, maintenance.moderate@snrt.ma
+2025-08-27 11:24:53,542 - INFO - Alerte de priorité modere envoyée avec succès
+2025-08-27 11:24:53,543 - INFO - Envoi d'alertes de priorité faible pour 282 équipements
+2025-08-27 11:24:55,181 - INFO - Email envoyé avec succès à: issami.aymane@gmail.com
+2025-08-27 11:24:55,181 - INFO - Alerte de priorité faible envoyée avec succès
+2025-08-27 11:24:55,182 - INFO - Génération du rapport simple avec fichier CSV
+2025-08-27 11:24:55,249 - INFO - Rapport CSV généré: output/predictions_alert_20250827_112455.csv
+2025-08-27 11:24:57,019 - INFO - Email envoyé avec succès à: issami.aymane@gmail.com
+2025-08-27 11:24:57,019 - INFO - Rapport hebdomadaire simple envoyé avec succès
+2025-08-27 11:24:57,019 - ERROR - Erreur de sauvegarde de l'historique: Expecting value: line 1 column 1 (char 0)
+2025-08-27 11:24:57,019 - INFO - Exécution du système de prédiction de maintenance terminée avec succès
+2025-08-27 11:24:57,020 - INFO - Session terminée avec succès - 485 prédictions générées, 5 notifications envoyées
+2025-08-27 11:51:13,332 - INFO - Single execution mode - Predictive Maintenance Alert System
+2025-08-27 11:51:13,332 - INFO - Configuration loaded from: config.json
+2025-08-27 11:51:13,332 - ERROR - Configuration loading failed: 'model_path'
+2025-08-27 11:53:11,842 - INFO - Mode d'exécution unique - Système d'Alertes de Maintenance Prédictive
+2025-08-27 11:53:11,842 - INFO - Initialisation du Système d'Alertes de Maintenance Prédictive
+2025-08-27 11:53:11,843 - INFO - Configuration chargée depuis: config.json
+2025-08-27 11:53:11,843 - INFO - Chargement des données d'équipement pour l'analyse...
+2025-08-27 11:53:15,821 - INFO - Exécution du système interrompue par l'utilisateur

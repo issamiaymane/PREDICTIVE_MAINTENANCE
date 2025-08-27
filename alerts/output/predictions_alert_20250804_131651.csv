@@ -1,0 +1,486 @@
+﻿equipment_code,current_date,predicted_failure_date,days_to_failure,risk_level,recommended_action
+ADB000010,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+ADB000042,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+ADB000050,2025-08-04,2026-01-23,172,FAIBLE,Maintenance préventive standard
+ADB000094,2025-08-04,2025-12-11,129,FAIBLE,Maintenance préventive standard
+APP000001,2025-08-04,2026-01-26,175,FAIBLE,Maintenance préventive standard
+APP000002,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+APP000004,2025-08-04,2026-01-26,175,FAIBLE,Maintenance préventive standard
+APP000005,2025-08-04,2026-01-24,173,FAIBLE,Maintenance préventive standard
+ASW000010,2025-08-04,2025-10-23,80,MODÉRÉ,Surveillance accrue recommandée
+CBA000002,2025-08-04,2025-12-20,138,FAIBLE,Maintenance préventive standard
+CBA000009,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+CBA000014,2025-08-04,2026-01-23,172,FAIBLE,Maintenance préventive standard
+CBA000018,2025-08-04,2026-01-20,169,FAIBLE,Maintenance préventive standard
+CBD000257,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000258,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000260,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000264,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000280,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000297,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000298,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000299,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000305,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000307,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000321,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000342,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000343,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000355,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000397,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000400,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000405,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000407,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000416,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000445,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000456,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000462,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000474,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000525,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000534,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000547,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000568,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000597,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000628,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000658,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000666,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000677,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000685,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000714,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000717,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000723,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000767,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000768,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000775,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000803,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000839,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000840,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000853,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000860,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000866,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000876,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000884,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000905,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000908,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000915,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000917,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000918,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD000921,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD001176,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD001221,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD001243,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CBD001244,2025-08-04,2025-08-30,26,ÉLEVÉ,Planifier maintenance dans les 2 semaines
+CNT000005,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+CNT000008,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+CNT000009,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+CNT000012,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+CNT000022,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+CNT000035,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+CNT000038,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+CNT000042,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+CNT000043,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+CNT000045,2025-08-04,2025-12-20,138,FAIBLE,Maintenance préventive standard
+CNT000046,2025-08-04,2025-12-20,138,FAIBLE,Maintenance préventive standard
+CNT000047,2025-08-04,2025-12-20,138,FAIBLE,Maintenance préventive standard
+COM000003,2025-08-04,2026-01-16,165,FAIBLE,Maintenance préventive standard
+DCE000002,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000077,2025-08-04,2026-01-15,164,FAIBLE,Maintenance préventive standard
+DCE000100,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000101,2025-08-04,2026-01-23,172,FAIBLE,Maintenance préventive standard
+DCE000102,2025-08-04,2026-01-10,159,FAIBLE,Maintenance préventive standard
+DCE000103,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000105,2025-08-04,2026-01-18,167,FAIBLE,Maintenance préventive standard
+DCE000106,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000107,2025-08-04,2026-01-23,172,FAIBLE,Maintenance préventive standard
+DCE000108,2025-08-04,2026-01-23,172,FAIBLE,Maintenance préventive standard
+DCE000109,2025-08-04,2026-01-23,172,FAIBLE,Maintenance préventive standard
+DCE000110,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000111,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000112,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000114,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000115,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000116,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000117,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000118,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000119,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000123,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000126,2025-08-04,2026-01-18,167,FAIBLE,Maintenance préventive standard
+DCE000167,2025-08-04,2025-10-02,59,MODÉRÉ,Surveillance accrue recommandée
+DCE000178,2025-08-04,2026-01-23,172,FAIBLE,Maintenance préventive standard
+DSK000002,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+DSK000005,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+DSK000006,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+DSK000313,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+DSK000428,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+DSK000569,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+DTA000001,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+DTA000006,2025-08-04,2026-01-23,172,FAIBLE,Maintenance préventive standard
+DTA000011,2025-08-04,2026-01-12,161,FAIBLE,Maintenance préventive standard
+DTA000012,2025-08-04,2026-01-23,172,FAIBLE,Maintenance préventive standard
+DTA000016,2025-08-04,2026-01-13,162,FAIBLE,Maintenance préventive standard
+DTA000017,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+DTA000018,2025-08-04,2026-01-08,157,FAIBLE,Maintenance préventive standard
+DTA000019,2025-08-04,2026-01-13,162,FAIBLE,Maintenance préventive standard
+DTA000023,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+DTA000024,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+DTA000025,2025-08-04,2026-01-13,162,FAIBLE,Maintenance préventive standard
+DTA000026,2025-08-04,2026-01-17,166,FAIBLE,Maintenance préventive standard
+DTA000027,2025-08-04,2026-01-13,162,FAIBLE,Maintenance préventive standard
+DTA000029,2025-08-04,2025-12-14,132,FAIBLE,Maintenance préventive standard
+DTA000031,2025-08-04,2026-01-19,168,FAIBLE,Maintenance préventive standard
+DTA000032,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+DTA000033,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+DTA000035,2025-08-04,2025-11-08,96,FAIBLE,Maintenance préventive standard
+DTA000036,2025-08-04,2026-01-17,166,FAIBLE,Maintenance préventive standard
+DTA000043,2025-08-04,2025-12-14,132,FAIBLE,Maintenance préventive standard
+DTA000045,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+DTA000047,2025-08-04,2025-12-14,132,FAIBLE,Maintenance préventive standard
+DTA000048,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+DTA000053,2025-08-04,2026-01-08,157,FAIBLE,Maintenance préventive standard
+DTA000056,2025-08-04,2026-01-11,160,FAIBLE,Maintenance préventive standard
+DTA000057,2025-08-04,2026-01-10,159,FAIBLE,Maintenance préventive standard
+DTA000060,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+DTA000189,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+DTA000302,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+DTA000344,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+DTA000414,2025-08-04,2025-11-08,96,FAIBLE,Maintenance préventive standard
+DTA000577,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+DTA000588,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+DTA000591,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+DTA000614,2025-08-04,2025-12-14,132,FAIBLE,Maintenance préventive standard
+DTA000615,2025-08-04,2025-12-14,132,FAIBLE,Maintenance préventive standard
+DTA000616,2025-08-04,2026-01-11,160,FAIBLE,Maintenance préventive standard
+DTA000619,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+DTA000621,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+ENC000012,2025-08-04,2025-10-29,86,MODÉRÉ,Surveillance accrue recommandée
+ESC000075,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+EXC000001,2025-08-04,2026-01-13,162,FAIBLE,Maintenance préventive standard
+EXC000002,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+HMD000017,2025-08-04,2026-01-19,168,FAIBLE,Maintenance préventive standard
+HMD000047,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+KVM000001,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+KYB000001,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+KYB000002,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000002,2025-08-04,2026-01-11,160,FAIBLE,Maintenance préventive standard
+LAP000007,2025-08-04,2026-01-08,157,FAIBLE,Maintenance préventive standard
+LAP000008,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+LAP000009,2025-08-04,2026-01-17,166,FAIBLE,Maintenance préventive standard
+LAP000010,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000011,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+LAP000012,2025-08-04,2026-01-12,161,FAIBLE,Maintenance préventive standard
+LAP000013,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+LAP000014,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000016,2025-08-04,2026-01-23,172,FAIBLE,Maintenance préventive standard
+LAP000017,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+LAP000018,2025-08-04,2026-01-08,157,FAIBLE,Maintenance préventive standard
+LAP000019,2025-08-04,2026-01-07,156,FAIBLE,Maintenance préventive standard
+LAP000055,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000062,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000097,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000234,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000388,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000515,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000537,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000672,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000804,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000835,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP000865,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001085,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001182,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001197,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001215,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001247,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001460,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001547,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001612,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001630,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001638,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001639,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001666,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001712,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001713,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001771,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+LAP001837,2025-08-04,2026-01-13,162,FAIBLE,Maintenance préventive standard
+LSR000160,2025-08-04,2026-01-08,157,FAIBLE,Maintenance préventive standard
+LSR000438,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+MON00011,2025-08-04,2026-01-11,160,FAIBLE,Maintenance préventive standard
+MON00012,2025-08-04,2025-10-05,62,MODÉRÉ,Surveillance accrue recommandée
+MON00015,2025-08-04,2026-01-17,166,FAIBLE,Maintenance préventive standard
+MON00020,2025-08-04,2025-10-05,62,MODÉRÉ,Surveillance accrue recommandée
+MON00022,2025-08-04,2025-10-05,62,MODÉRÉ,Surveillance accrue recommandée
+MON00024,2025-08-04,2025-10-05,62,MODÉRÉ,Surveillance accrue recommandée
+MON00027,2025-08-04,2026-01-09,158,FAIBLE,Maintenance préventive standard
+MQM000322,2025-08-04,2025-10-03,60,MODÉRÉ,Surveillance accrue recommandée
+NSS000025,2025-08-04,2025-10-05,62,MODÉRÉ,Surveillance accrue recommandée
+PRN000140,2025-08-04,2026-03-15,223,FAIBLE,Maintenance préventive standard
+SAN000151,2025-08-04,2025-12-03,121,FAIBLE,Maintenance préventive standard
+SAN000152,2025-08-04,2025-12-03,121,FAIBLE,Maintenance préventive standard
+SAN000153,2025-08-04,2025-12-03,121,FAIBLE,Maintenance préventive standard
+SAN000155,2025-08-04,2026-03-24,232,FAIBLE,Maintenance préventive standard
+SAN000157,2025-08-04,2025-12-03,121,FAIBLE,Maintenance préventive standard
+SAN000178,2025-08-04,2026-03-10,218,FAIBLE,Maintenance préventive standard
+SAN000182,2025-08-04,2026-03-11,219,FAIBLE,Maintenance préventive standard
+SAN000184,2025-08-04,2025-12-03,121,FAIBLE,Maintenance préventive standard
+SAP000002,2025-08-04,2026-03-13,221,FAIBLE,Maintenance préventive standard
+SAP000003,2025-08-04,2026-03-16,224,FAIBLE,Maintenance préventive standard
+SAP000004,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SAP000005,2025-08-04,2026-03-09,217,FAIBLE,Maintenance préventive standard
+SAP000006,2025-08-04,2025-12-03,121,FAIBLE,Maintenance préventive standard
+SBA000010,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000011,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000017,2025-08-04,2026-02-08,188,FAIBLE,Maintenance préventive standard
+SBA000020,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SBA000025,2025-08-04,2026-02-14,194,FAIBLE,Maintenance préventive standard
+SBA000026,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000028,2025-08-04,2026-02-08,188,FAIBLE,Maintenance préventive standard
+SBA000033,2025-08-04,2026-02-08,188,FAIBLE,Maintenance préventive standard
+SBA000035,2025-08-04,2026-02-14,194,FAIBLE,Maintenance préventive standard
+SBA000045,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000054,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000060,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SBA000061,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000063,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000071,2025-08-04,2026-02-08,188,FAIBLE,Maintenance préventive standard
+SBA000072,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000073,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SBA000074,2025-08-04,2026-02-14,194,FAIBLE,Maintenance préventive standard
+SBA000076,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SBA000078,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000079,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000086,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000088,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000101,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000113,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000119,2025-08-04,2026-02-17,197,FAIBLE,Maintenance préventive standard
+SBA000120,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000122,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000131,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000142,2025-08-04,2026-02-14,194,FAIBLE,Maintenance préventive standard
+SBA000144,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000145,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000154,2025-08-04,2026-02-13,193,FAIBLE,Maintenance préventive standard
+SBA000163,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000167,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SBA000172,2025-08-04,2026-05-05,274,FAIBLE,Maintenance préventive standard
+SBA000173,2025-08-04,2026-02-14,194,FAIBLE,Maintenance préventive standard
+SBA000174,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000181,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000189,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000213,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000227,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000251,2025-08-04,2026-02-17,197,FAIBLE,Maintenance préventive standard
+SBA000256,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000259,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+SBA000263,2025-08-04,2026-01-12,161,FAIBLE,Maintenance préventive standard
+SBA000264,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000284,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000287,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000288,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000295,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000296,2025-08-04,2026-02-08,188,FAIBLE,Maintenance préventive standard
+SBA000300,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000310,2025-08-04,2026-02-12,192,FAIBLE,Maintenance préventive standard
+SBA000311,2025-08-04,2025-11-29,117,FAIBLE,Maintenance préventive standard
+SBA000317,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000322,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+SBA000323,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000325,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000326,2025-08-04,2026-02-14,194,FAIBLE,Maintenance préventive standard
+SBA000333,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000335,2025-08-04,2026-02-08,188,FAIBLE,Maintenance préventive standard
+SBA000338,2025-08-04,2026-02-17,197,FAIBLE,Maintenance préventive standard
+SBA000343,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000357,2025-08-04,2026-02-08,188,FAIBLE,Maintenance préventive standard
+SBA000360,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000393,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000394,2025-08-04,2026-02-14,194,FAIBLE,Maintenance préventive standard
+SBA000398,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000399,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000400,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000405,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000407,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000418,2025-08-04,2025-12-09,127,FAIBLE,Maintenance préventive standard
+SBA000419,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000427,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000429,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000436,2025-08-04,2026-02-08,188,FAIBLE,Maintenance préventive standard
+SBA000439,2025-08-04,2026-02-13,193,FAIBLE,Maintenance préventive standard
+SBA000442,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000451,2025-08-04,2026-02-13,193,FAIBLE,Maintenance préventive standard
+SBA000453,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000458,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000459,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000460,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000461,2025-08-04,2026-02-12,192,FAIBLE,Maintenance préventive standard
+SBA000462,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+SBA000464,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000467,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000517,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000523,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+SBA000526,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SBA000531,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SBA000538,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000540,2025-08-04,2025-12-06,124,FAIBLE,Maintenance préventive standard
+SBA000585,2025-08-04,2026-02-08,188,FAIBLE,Maintenance préventive standard
+SBA000590,2025-08-04,2026-01-04,153,FAIBLE,Maintenance préventive standard
+SBA000604,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SBA000606,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000607,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+SBA000609,2025-08-04,2026-01-20,169,FAIBLE,Maintenance préventive standard
+SBA000617,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000618,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000620,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000621,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000624,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000626,2025-08-04,2026-02-12,192,FAIBLE,Maintenance préventive standard
+SBA000629,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000630,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000645,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000651,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000659,2025-08-04,2026-02-09,189,FAIBLE,Maintenance préventive standard
+SBA000662,2025-08-04,2026-02-13,193,FAIBLE,Maintenance préventive standard
+SBA000665,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000671,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000679,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000690,2025-08-04,2026-02-14,194,FAIBLE,Maintenance préventive standard
+SBA000694,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000698,2025-08-04,2026-02-12,192,FAIBLE,Maintenance préventive standard
+SBA000709,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000711,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000729,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000733,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000747,2025-08-04,2026-02-13,193,FAIBLE,Maintenance préventive standard
+SBA000759,2025-08-04,2026-02-13,193,FAIBLE,Maintenance préventive standard
+SBA000764,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000765,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000766,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000773,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000779,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000782,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000795,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SBA000805,2025-08-04,2026-02-09,189,FAIBLE,Maintenance préventive standard
+SBA000811,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000812,2025-08-04,2026-02-15,195,FAIBLE,Maintenance préventive standard
+SBA000813,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000816,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000818,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000834,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SBA000842,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SBA000844,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SBA000847,2025-08-04,2026-02-12,192,FAIBLE,Maintenance préventive standard
+SBA000850,2025-08-04,2025-11-29,117,FAIBLE,Maintenance préventive standard
+SCN000001,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SCN000003,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SPF000018,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SSW000056,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SSW000058,2025-08-04,2026-02-14,194,FAIBLE,Maintenance préventive standard
+SSW000068,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SSW000169,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SSW000356,2025-08-04,2026-02-14,194,FAIBLE,Maintenance préventive standard
+STA000013,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+STA000017,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+STA000033,2025-08-04,2026-01-14,163,FAIBLE,Maintenance préventive standard
+SUB000002,2025-08-04,2026-01-25,174,FAIBLE,Maintenance préventive standard
+SUB000004,2025-08-04,2025-10-11,68,MODÉRÉ,Surveillance accrue recommandée
+SUB000016,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000017,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SUB000034,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000057,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000059,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000081,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000082,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000113,2025-08-04,2026-02-11,191,FAIBLE,Maintenance préventive standard
+SUB000136,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000149,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000161,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000253,2025-08-04,2026-02-07,187,FAIBLE,Maintenance préventive standard
+SUB000282,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000286,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SUB000403,2025-08-04,2025-11-03,91,FAIBLE,Maintenance préventive standard
+SUB000420,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+SUB000424,2025-08-04,2026-02-21,201,FAIBLE,Maintenance préventive standard
+SUB000426,2025-08-04,2026-03-02,210,FAIBLE,Maintenance préventive standard
+SUB000427,2025-08-04,2026-02-27,207,FAIBLE,Maintenance préventive standard
+SUB000433,2025-08-04,2026-02-27,207,FAIBLE,Maintenance préventive standard
+SUB000436,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+SUB000442,2025-08-04,2026-02-27,207,FAIBLE,Maintenance préventive standard
+SUB000443,2025-08-04,2026-03-07,215,FAIBLE,Maintenance préventive standard
+SUB000445,2025-08-04,2026-03-14,222,FAIBLE,Maintenance préventive standard
+SUB000447,2025-08-04,2026-01-10,159,FAIBLE,Maintenance préventive standard
+SUB000450,2025-08-04,2026-02-03,183,FAIBLE,Maintenance préventive standard
+SUB000455,2025-08-04,2026-03-04,212,FAIBLE,Maintenance préventive standard
+SUB000456,2025-08-04,2026-01-27,176,FAIBLE,Maintenance préventive standard
+SUB000458,2025-08-04,2026-02-03,183,FAIBLE,Maintenance préventive standard
+SUB000465,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+SUB000479,2025-08-04,2026-02-28,208,FAIBLE,Maintenance préventive standard
+SUB000505,2025-08-04,2026-02-27,207,FAIBLE,Maintenance préventive standard
+SUB000508,2025-08-04,2026-02-25,205,FAIBLE,Maintenance préventive standard
+SUB000512,2025-08-04,2026-03-09,217,FAIBLE,Maintenance préventive standard
+SUB000513,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+SUB000514,2025-08-04,2026-03-14,222,FAIBLE,Maintenance préventive standard
+SUB000521,2025-08-04,2026-03-03,211,FAIBLE,Maintenance préventive standard
+SUB000523,2025-08-04,2026-03-12,220,FAIBLE,Maintenance préventive standard
+SUB000524,2025-08-04,2026-02-27,207,FAIBLE,Maintenance préventive standard
+SUB000533,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+SUB000534,2025-08-04,2026-03-14,222,FAIBLE,Maintenance préventive standard
+SUB000535,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+SUB000537,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+SUB000538,2025-08-04,2026-02-27,207,FAIBLE,Maintenance préventive standard
+SUB000539,2025-08-04,2026-03-04,212,FAIBLE,Maintenance préventive standard
+SUB000540,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+SUB000545,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+WBA000001,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000003,2025-08-04,2026-02-03,183,FAIBLE,Maintenance préventive standard
+WBA000005,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000008,2025-08-04,2026-03-02,210,FAIBLE,Maintenance préventive standard
+WBA000009,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+WBA000011,2025-08-04,2026-02-21,201,FAIBLE,Maintenance préventive standard
+WBA000017,2025-08-04,2026-03-14,222,FAIBLE,Maintenance préventive standard
+WBA000018,2025-08-04,2026-02-23,203,FAIBLE,Maintenance préventive standard
+WBA000022,2025-08-04,2026-01-01,150,FAIBLE,Maintenance préventive standard
+WBA000023,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000025,2025-08-04,2026-02-03,183,FAIBLE,Maintenance préventive standard
+WBA000043,2025-08-04,2026-03-09,217,FAIBLE,Maintenance préventive standard
+WBA000044,2025-08-04,2026-02-27,207,FAIBLE,Maintenance préventive standard
+WBA000049,2025-08-04,2026-03-14,222,FAIBLE,Maintenance préventive standard
+WBA000053,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000054,2025-08-04,2026-03-14,222,FAIBLE,Maintenance préventive standard
+WBA000056,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000058,2025-08-04,2026-01-27,176,FAIBLE,Maintenance préventive standard
+WBA000060,2025-08-04,2026-03-03,211,FAIBLE,Maintenance préventive standard
+WBA000068,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+WBA000077,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+WBA000079,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000082,2025-08-04,2026-03-03,211,FAIBLE,Maintenance préventive standard
+WBA000092,2025-08-04,2026-02-27,207,FAIBLE,Maintenance préventive standard
+WBA000094,2025-08-04,2026-05-17,286,FAIBLE,Maintenance préventive standard
+WBA000103,2025-08-04,2026-02-22,202,FAIBLE,Maintenance préventive standard
+WBA000104,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000106,2025-08-04,2026-03-09,217,FAIBLE,Maintenance préventive standard
+WBA000107,2025-08-04,2026-02-27,207,FAIBLE,Maintenance préventive standard
+WBA000113,2025-08-04,2026-02-03,183,FAIBLE,Maintenance préventive standard
+WBA000114,2025-08-04,2026-01-10,159,FAIBLE,Maintenance préventive standard
+WBA000116,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000117,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000118,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000119,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000122,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+WBA000124,2025-08-04,2026-02-21,201,FAIBLE,Maintenance préventive standard
+WBA000126,2025-08-04,2025-12-31,149,FAIBLE,Maintenance préventive standard
+WBA000128,2025-08-04,2026-03-05,213,FAIBLE,Maintenance préventive standard
+WBA000129,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000133,2025-08-04,2026-01-27,176,FAIBLE,Maintenance préventive standard
+WBA000141,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WBA000144,2025-08-04,2026-02-21,201,FAIBLE,Maintenance préventive standard
+WBA000145,2025-08-04,2026-02-28,208,FAIBLE,Maintenance préventive standard
+WBA000147,2025-08-04,2026-03-14,222,FAIBLE,Maintenance préventive standard
+WBA000148,2025-08-04,2026-02-25,205,FAIBLE,Maintenance préventive standard
+WBA000150,2025-08-04,2026-02-03,183,FAIBLE,Maintenance préventive standard
+WSR000194,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WSR000660,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WSR000943,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WSR000952,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WSR001374,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WSR001387,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+WSR001397,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard
+ZOC000002,2025-08-04,2026-01-10,159,FAIBLE,Maintenance préventive standard
+ZOC000004,2025-08-04,2025-12-04,122,FAIBLE,Maintenance préventive standard

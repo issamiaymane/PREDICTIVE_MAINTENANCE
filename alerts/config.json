@@ -1,0 +1,21 @@
+{
+  "chemin_modele": "/home/aymane-issami/Desktop/PREDICTIVE_MAINTENANCE/code/notebooks/outputs/model_20250802_095836.pkl",
+  "config_donnees": {
+    "type": "excel",
+    "chemin": "/home/aymane-issami/Desktop/PREDICTIVE_MAINTENANCE/code/notebooks/data/Data_Helpdesk_New_From_ITSM.xlsx"
+  },
+  "planificateur": {
+    "active": true,
+    "type": "weekly",
+    "jour_de_la_semaine": 1,
+    "heure": "10:40",
+    "timezone": "Africa/Casablanca"
+  },
+  "created_at": "2025-08-04T13:15:08.760757",
+  "version": "1.0",
+  "info_systeme": {
+    "organisation": "SNRT - Soci\u00e9t\u00e9 Nationale de Radiodiffusion et de T\u00e9l\u00e9vision du Maroc",
+    "auteur": "Aymane ISSAMI",
+    "description": "Syst\u00e8me professionnel d'alertes de maintenance pr\u00e9dictive"
+  }
+}
